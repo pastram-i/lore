@@ -1,0 +1,22 @@
+{
+  "LORE.AbilityStr": "Strength",
+  "LORE.AbilityCon": "Constitution",
+  "LORE.AbilityDex": "Dexterity",
+  "LORE.AbilityInt": "Intelligence",
+  "LORE.AbilityWis": "Wisdom",
+  "LORE.AbilityCha": "Charisma",
+
+  "LORE.AbilityStrAbbr": "str",
+  "LORE.AbilityConAbbr": "con",
+  "LORE.AbilityDexAbbr": "dex",
+  "LORE.AbilityIntAbbr": "int",
+  "LORE.AbilityWisAbbr": "wis",
+  "LORE.AbilityChaAbbr": "cha",
+
+  "LORE.EffectCreate": "Create Effect",
+  "LORE.EffectToggle": "Toggle Effect",
+  "LORE.EffectEdit": "Edit Effect",
+  "LORE.EffectDelete": "Delete Effect",
+
+  "LORE.Add": "Add"
+}

@@ -1,0 +1,33 @@
+https://marinaracreampuff.notion.site/marinaracreampuff/Lore-61924c5f86d64ce7b90364e3f63c6220
+
+Character
+ - Provide dropdown for class in character template
+ - Provide dropdown for race in character template
+ - Lockdown stat fields in character template
+ - Allow additional stat distribution on top of base
+ - Dynamically calculate character stats based on above
+ - Create item database
+ - Create action database
+ - Dynamic dropdowns based on item databases
+ - Dynamic deck based on item, race, and class
+ - Add EXP bar
+ - Dynamically increase character stats on exp bar cap
+
+Gameplay
+ - Automate lawful/unlawful movement on skill use
+ - Automate selectable hex on attack/spell
+ - Automate character stat changes on hit
+ - Automate turn order (speed based)
+ - Begin encounter on LoS
+
+Dungeons
+ - Create/implement call to dungeon generator
+ - Distribute enemies into dungeon
+ - Distribute drops and EXP on defeat
+ - Create enemy AI
+ - Provide exit to next floor
+
+Databases
+ - Create item database
+ - Create action database
+ - Create enemy database
